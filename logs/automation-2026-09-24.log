@@ -1,0 +1,56 @@
+17:07:44.273 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+17:12:11.079 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+17:12:11.752 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+17:12:18.292 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+17:12:28.001 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+17:21:23.043 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+17:21:23.693 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+17:21:31.040 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+17:21:38.786 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+17:25:16.741 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+17:25:17.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+17:25:22.891 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+17:25:23.091 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
+17:25:23.937 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+17:25:23.949 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details *****
+17:25:26.525 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+17:25:26.609 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+17:25:30.368 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+17:25:32.608 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login?Tests ****
+17:26:30.493 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\crossbrowsertesting.xml"
+17:26:31.216 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\crossbrowsertesting.xml
+
+17:26:31.521 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+17:26:36.934 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+17:26:38.165 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+17:26:38.344 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
+17:26:38.428 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
+21:17:12.958 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml"
+21:17:14.124 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml
+
+21:17:16.416 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+21:17:16.584 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+21:17:16.709 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml"
+21:17:17.464 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml
+
+21:17:18.384 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+21:17:18.540 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+21:17:53.560 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml"
+21:17:54.384 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml
+
+21:17:55.616 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+21:17:55.787 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+21:19:47.214 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml"
+21:19:47.876 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml
+
