@@ -11,3 +11,12 @@
 14:50:19.059 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
 14:50:24.074 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
 14:50:27.378 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login?Tests ****
+10:37:10.435 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+10:37:17.588 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+10:37:17.765 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
+10:37:18.207 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+10:37:18.212 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details *****
+10:37:20.874 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+10:37:20.945 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+10:37:24.501 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+10:37:26.727 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login?Tests ****
