@@ -13,13 +13,13 @@ public class DataProviders {
 	@DataProvider(name="LoginData")
 	public String [][] getData() throws IOException
 	{
-		String path="C:\\Users\\Harini\\eclipse-workspace\\Java_practice\\Open_Cart_Project\\TestData\\Opencart_LoginData_xlsx.xlsx";
+		String path=".\\TestData\\Opencart_LoginData_xlsx.xlsx";
 		//Taking xl file from testData
 		
 		ExcelUtility xlutil=new ExcelUtility(path);//creatiing an object for XLUtility
 		
 		int totalrows=xlutil.getRowCount("Sheet1");
-		int totalcols=xlutil.getCellCount("Sheet1",1);
+		int totalcols=xlutil.getCellCount("Sheet1",1); //from 1st row
 		
 		String [][] logindata=new String[totalrows][totalcols];//created for two dimension array which we can store
 		
@@ -27,7 +27,7 @@ public class DataProviders {
 		{
 			for(int j=0;j<totalcols;j++)//0  i is row j is col
 			{
-				logindata[i-1][j]=xlutil.getCellData("Sheet1", i, j);
+				logindata[i-1][j]=xlutil.getCellData("Sheet1", i, j); //1,0 i-1 becoz array index starts from 0
 			}
 		}
 		return logindata;//returning two dimension array

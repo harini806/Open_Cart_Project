@@ -24,6 +24,7 @@ public class ExcelUtility {
 	public static CellStyle style;
 	public static String path;
 	
+	//to get excel file path
 	public ExcelUtility(String path)
 	{
 		this.path=path;
@@ -89,7 +90,7 @@ public class ExcelUtility {
 	
 	
 	{
-		File xlfile = new File(path);
+		File xlfile = new File(path);//like flush here exist()
 		if(!xlfile.exists())  //If file not fount create a new file
 		{
 			

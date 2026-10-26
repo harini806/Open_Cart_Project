@@ -1,0 +1,54 @@
+12:59:24.340 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1c32886a: 0 ms
+13:05:38.593 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:07:38.606 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:09:03.643 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:09:04.244 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+13:09:22.299 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+13:12:29.032 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:12:29.623 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+13:12:35.635 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+13:16:18.726 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:16:19.327 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+13:16:24.247 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+13:18:46.299 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:18:46.901 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+13:18:51.696 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+13:22:01.286 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:22:01.876 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+13:22:07.492 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+13:24:38.787 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:24:39.392 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+13:24:45.245 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+13:28:43.954 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:28:44.618 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+13:28:49.516 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+13:52:45.642 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\AppData\Local\Temp\testng-eclipse-1712996643\testng-customsuite.xml"
+13:52:46.216 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+13:52:46.227 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+13:52:46.231 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.231 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.233 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.233 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.236 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.237 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+13:52:46.283 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 28 ms.
+13:52:46.289 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.291 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.293 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.296 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

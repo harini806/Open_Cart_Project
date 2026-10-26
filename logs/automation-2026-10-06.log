@@ -1,0 +1,54 @@
+13:52:46.296 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.316 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.321 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.323 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.329 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.333 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.335 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.335 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.341 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+13:52:46.341 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.346 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.346 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.346 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+13:52:46.348 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+13:52:46.374 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\AppData\Local\Temp\testng-eclipse-1712996643\testng-customsuite.xml
+
+13:52:46.426 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+13:52:47.046 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@278bb07e: 205 ms
+13:52:47.083 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@a202ccb: 37 ms
+13:52:47.113 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3e7634b9: 30 ms
+13:52:47.142 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@62e6b5c8: 29 ms
+13:52:47.163 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4da602fc: 17 ms
+13:52:47.165 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2a8d39c4: 0 ms
+14:03:56.850 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+14:03:57.566 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+14:04:04.234 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+14:11:47.879 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+14:11:48.500 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+14:11:56.959 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+14:17:58.175 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+14:17:58.780 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+14:18:04.977 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+14:18:05.718 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+15:01:55.671 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+15:01:56.297 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+15:02:03.083 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+15:02:03.844 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+15:03:04.748 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+15:03:05.348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+15:03:11.071 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+15:03:11.759 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+12:02:15.858 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"

@@ -44,6 +44,7 @@ public class TC003_LoginDDT extends BaseClass{
 		 */
 		if(exp.equalsIgnoreCase("Valid"))
 		{
+			//login successful on valid data
 			if(targetPage==true)
 			{
 				Assert.assertTrue(true);
@@ -51,6 +52,7 @@ public class TC003_LoginDDT extends BaseClass{
 				
 			
 			}
+			//login uncessful on invalid data
 			else
 			{
 				Assert.assertTrue(false);
@@ -59,11 +61,13 @@ public class TC003_LoginDDT extends BaseClass{
 		
 		if(exp.equalsIgnoreCase("Invalid"))
 		{
+			//login unccessful on invalid dat
 			if(targetPage==true)
 			{
 				macc.clickLogout();
 				Assert.assertTrue(false);
 			}
+			//login successful on invalid data
 			else
 			{
 				Assert.assertTrue(true);

@@ -1,22 +1,16 @@
-13:34:18.800 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login?Tests ****
-14:50:03.499 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
-14:50:04.226 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
-
-14:50:11.515 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
-14:50:11.747 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
-14:50:12.855 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
-14:50:12.865 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details *****
-14:50:18.980 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
-14:50:19.059 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-14:50:24.074 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
-14:50:27.378 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login?Tests ****
-10:37:10.435 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
-10:37:17.588 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
-10:37:17.765 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
-10:37:18.207 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
-10:37:18.212 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details *****
-10:37:20.874 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
-10:37:20.945 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
-10:37:24.501 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
-10:37:26.727 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login?Tests ****
+11:26:07.388 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
+11:26:08.341 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+11:26:08.346 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details *****
+11:26:11.332 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+11:26:11.458 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:26:19.932 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+11:26:23.746 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login2Tests ****
+12:45:49.505 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+12:47:54.124 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+12:49:50.940 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+12:53:55.890 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+12:55:28.974 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:01:31.498 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:04:14.888 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:09:09.370 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+13:12:56.272 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"

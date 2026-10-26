@@ -120,7 +120,7 @@ public void onTestSkipped(ITestResult result) {
 public void onFinish(ITestContext context) {
 	
 	extent.flush(); // Mandatory
-	
+	//this code use to open the extent report automatically
 	String pathOfExtentReport = System.getProperty("user.dir")+"\\reports\\"+repName;
 	File extentReport = new File(pathOfExtentReport);
 	try

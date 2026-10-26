@@ -1,0 +1,53 @@
+11:02:36.908 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml"
+11:02:37.593 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml
+
+11:06:28.964 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml"
+11:06:29.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml
+
+11:06:41.993 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+11:06:42.312 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
+11:06:43.270 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+11:06:43.277 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details *****
+11:06:46.971 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+11:06:47.107 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:06:50.146 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+11:06:53.378 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login2Tests ****
+11:07:37.400 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml"
+11:07:38.171 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml
+
+11:07:45.499 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+11:07:45.835 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
+11:07:46.533 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+11:07:46.541 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details *****
+11:07:50.075 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+11:07:50.208 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:07:52.963 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+11:07:55.715 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login2Tests ****
+11:14:56.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml"
+11:14:57.683 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml
+
+11:15:03.980 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+11:15:04.348 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
+11:15:05.103 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+11:15:05.172 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details *****
+11:15:11.385 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+11:15:11.581 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:15:14.276 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+11:15:18.866 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login2Tests ****
+11:25:33.201 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml"
+11:25:34.066 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\grid-docker.xml
+
+11:25:41.648 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****
+11:25:42.017 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on MyAccount Link *****
+11:25:42.676 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Clicked on Register Link *****
+11:25:42.682 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Providing customer details *****
+11:25:46.417 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Validating expected message *****
+11:25:46.534 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+11:25:48.739 [main] INFO  testCases.TC002_LoginTest - ***** Starting  TC002_LoginTest *****
+11:25:51.482 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_Login2Tests ****
+11:26:07.063 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest *****

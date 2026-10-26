@@ -40,7 +40,7 @@ public class TC002_LoginTest extends BaseClass{
 		{
 		  Assert.fail();
 		}
-		logger.info("******* Finished TC_002_Login?Tests ****");
+		logger.info("******* Finished TC_002_Login2Tests ****");
 	
 	
 	

@@ -1,0 +1,64 @@
+12:02:16.454 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+12:02:26.102 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+12:02:26.850 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+14:13:56.742 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+14:13:57.486 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+14:14:07.089 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+14:14:08.043 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+14:14:52.595 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+14:14:53.387 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+14:41:48.216 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+14:41:48.956 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+14:41:57.019 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+14:41:57.846 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+14:44:01.928 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+14:44:02.641 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+14:44:09.317 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+14:44:10.175 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+14:48:54.312 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+14:48:55.589 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+14:49:02.088 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+14:49:03.098 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+14:52:05.104 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+14:52:05.783 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+14:52:13.502 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+14:52:14.222 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+14:53:22.262 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+14:53:23.138 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+14:53:29.588 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+14:53:30.589 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+15:01:57.174 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+15:01:58.466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+15:02:07.783 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+15:02:08.592 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+15:04:16.263 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+15:04:16.898 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+15:04:23.893 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+15:04:24.674 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+15:04:58.705 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
+15:04:59.346 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml
+
+15:05:06.939 [main] INFO  testCases.TC004_SearchProductTest - ***** starting TC_004_SearchProductTest *****
+15:05:07.914 [main] INFO  testCases.TC004_SearchProductTest - Product found!
+15:11:49.326 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Harini\eclipse-workspace\Java_practice\Open_Cart_Project\master.xml"
